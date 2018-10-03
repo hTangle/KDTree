@@ -42,3 +42,6 @@ HEADERS += \
     node.h \
     Point.h \
     Scene.h
+
+DISTFILES += \
+    README.md
